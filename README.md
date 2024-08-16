@@ -1,4 +1,5 @@
-## Hi there 👋
+- Boas vinda ao meu perfil
+- Meu nome é Brayan Aleixo
 
 <!--
 **brayan28012009/brayan28012009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Estou estudando na Alura
+- Estou meu desenvolvendo na linguagem javaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+- 
+- @alurastartestudande sim pode
